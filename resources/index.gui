@@ -1,0 +1,10 @@
+<svg>
+  <rect id="background" />
+  <rect id="clickbg1" pointer-events="visible"/>
+  <rect id="clickbg2" pointer-events="visible"/>
+  <rect id="clickbg3" pointer-events="visible"/>
+  <text id="Label1" pointer-events="visible"/>
+  <text id="Label2" pointer-events="visible"/>
+  <text id="Label3" pointer-events="visible"/>
+  <text id="responseDisplay" pointer-events="visible"/>
+</svg>
