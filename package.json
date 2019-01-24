@@ -1,0 +1,24 @@
+{
+  "fitbit": {
+    "appUUID": "08e2723d-c0f3-429c-9cb8-e93086fd604c",
+    "appType": "app",
+    "appDisplayName": "Send Message",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "#607d8b",
+    "requestedPermissions": [
+      "access_internet"
+    ],
+    "buildTargets": [
+      "higgs",
+      "meson"
+    ],
+    "i18n": {
+      "en": {
+        "name": "Send Message"
+      }
+    }
+  },
+  "devDependencies": {
+    "@fitbit/sdk": "~3.0.0"
+  }
+}
