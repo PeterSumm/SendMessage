@@ -9,4 +9,6 @@ For example, the label might be 'Send help!' and the URL/data fields contain the
 
 To test your requests, you might want to use the free testing service at https://www.requestcatcher.com.
 
+The compiled version of this app is at https://gam.fitbit.com/gallery/app/08e2723d-c0f3-429c-9cb8-e93086fd604c.
+
 The Pebble version of this app could also substitute location-specific information.  I may implement this later if there's enough interest.
