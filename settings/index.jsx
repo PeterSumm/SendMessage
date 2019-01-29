@@ -62,7 +62,7 @@ function mySettings(props) {
         title={<Text bold align="center">Instructions</Text>}>
         <Text>
           This is an HTTP/HTTPS client supporting GET and POST requests (though HTTP only works to IP addresses on your own network).
-          It is intended for technically proficient audience and use of its more advanced features requires some understanding of JSON 
+          It is intended for a technically proficient audience and use of its more advanced features requires some understanding of JSON 
           data structures.
           The app allows configuration with three sets of label, URL, data segment (for POST) and headers. Touching that label will then 
           fire off the associated request, and the status text returned will be displayed on the watch and can be dismissed by touching it.
