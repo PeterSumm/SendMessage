@@ -76,6 +76,9 @@ function sendVal(data) {
   console.log(JSON.stringify(data))
   if (messaging.peerSocket.readyState === messaging.peerSocket.OPEN) {
     messaging.peerSocket.send(data);
+  }  else {
+    responseDisplay.style.display = "inline"
+    responseDisplay.text = "Phone?";
   }
 }
 
